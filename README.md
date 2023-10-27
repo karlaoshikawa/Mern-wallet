@@ -1,4 +1,4 @@
-![](/diowallet-api/mern.jpeg)
+![](/mern.jpeg)
 
 # Dio Wallet - API
 Nesse projeto, estou explorando a magia da interatividade com o desenvolvimento da minha própria Carteira Digital! Neste projeto, mergulhei na arte do desenvolvimento utilizando ReactJS e TailwindCSS, criando uma experiência envolvente, amigável e esteticamente cativante para gerenciar minhas finanças de forma intuitiva.
